@@ -1,16 +1,6 @@
 
 <h1 align="center">Notes API Golang</h1>
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/vitostamatti/notes-app-golang.svg)](https://github.com/vitostamatti/notes-app-golang/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/vitostamatti/notes-app-golang.svg)](https://github.com/vitostamatti/notes-app-golang/pulls)
-
-
-</div>
-
----
 
 <p align="center"> 
     A basic CRUD API of Notes with users JWT authentication.
